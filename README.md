@@ -23,7 +23,7 @@ Lab réalisé sous VirtualBox en première année du cycle ingénieur (ENSA Bén
 | LAN | em1 | 192.168.10.1/24, serveur DHCP activé (plage 192.168.10.10 à 192.168.10.100) |
 | DMZ | em2 | 10.10.10.1/24 |
 
-*À COMPLÉTER : ajoute ton schéma d'architecture dans `images/` :*
+
 ![Architecture](images/architecture.png)
 
 ## Environnement
