@@ -57,7 +57,7 @@ Lab réalisé sous VirtualBox en première année du cycle ingénieur (ENSA Bén
 
 Choix de la base locale : pas besoin de serveur d'authentification externe, ce qui convient à un réseau de petite taille ou à un lab.
 
-*À COMPLÉTER : captures de la zone du portail, de l'authentification et de la page de connexion.*
+
 ![Zone du portail captif](images/portail-zone.png)
 ![Authentification](images/auth.png)
 ![Page de connexion](images/portail-connexion.png)
