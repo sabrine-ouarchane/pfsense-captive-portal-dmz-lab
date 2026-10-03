@@ -1,0 +1,12 @@
+# Ne jamais publier les sauvegardes de configuration pfSense
+# (elles contiennent des empreintes de mots de passe, des certificats et des clés privées)
+config*.xml
+*.pem
+*.key
+*.crt
+
+# Fichiers de machines virtuelles
+*.ova
+*.vdi
+*.vmdk
+*.iso
